@@ -1,7 +1,7 @@
 const { SlashCommandBuilder } = require('discord.js');
 
 /**
- * Created by Acemix [Bilzox Studios]
+ * Developed and Designed by Acemix
  * Discord: Structure for Bot Multilang
  * Supports both slash commands and prefix commands.
  */
